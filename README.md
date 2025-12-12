@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-
-![GitHub Card](https://githubcard.com/g/_8Z8UApB.svg)
+![GitHub Card](https://githubcard.com/NinaWie.svg)
 
 You can reach me also here:
 
